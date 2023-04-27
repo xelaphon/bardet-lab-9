@@ -1,0 +1,37 @@
+Number of movies            :1
+Comments                    :Image acquisition
+ID-number 1                 :1
+Origin 1                    :NOVALUE
+Description 1               :NX3-S3 Camera
+Camera ID-number 1          :01-0513-0747
+Camera type 1               :MotionXtra NX3-S3
+Lens ID-number 1            :NOVALUE
+Lens type 1                 :NOVALUE
+Focus 1                     :NOVALUE
+Lens focal length 1         :NOVALUE
+Number of images 1          :500
+Film speed 1                :250
+Shutter time 1              :0.002793
+Aperture 1                  :NOVALUE
+Time zero 1                 :2
+Time vector filename 1      :NO
+Reference system 1          :NOVALUE
+Location X 1                :NOVALUE
+Location Y 1                :NOVALUE
+Location Z 1                :NOVALUE
+Theta X 1                   :NOVALUE
+Theta Y 1                   :NOVALUE
+Theta Z 1                   :NOVALUE
+Width of image 1            :1280
+Height of image 1           :1024
+Aspect ratio of pixels 1    :1.25
+Colour 1                    :MONO
+Name of movie file 1        :Acquisitions_20221114_strobe2_.jpg
+Format of movie file 1      :jpg
+Keyframes 1                 :NOVALUE
+Codec used 1                :NOVALUE
+Compression 1               :NOVALUE
+Distortion index 1          :NOVALUE
+Movie images corrected 1    :NO
+Correction parameter file 1 :NOVALUE
+Image history filename 1    :NOVALUE
